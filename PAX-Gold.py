@@ -258,3 +258,19 @@ def main():
     print_summary(
         network,
         account
+    )
+
+    print()
+
+    print(
+        "Interaction preview completed."
+    )
+
+    print(
+        "No signing operation was executed."
+    )
+
+
+if __name__ == "__main__":
+    main()
+```
